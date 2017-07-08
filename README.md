@@ -11,10 +11,6 @@ Code file details
 1. Code is saved as TimeDoctorCode.zip
 2. Download the zip of pull from repository for review
 
-Screen shots of working solution
----
-1. Please refer Screenshots.doc to view working application implemented at my site.
-
 User name and Password details for TimeDoctor.com
 ---
 I have create a user for testing
