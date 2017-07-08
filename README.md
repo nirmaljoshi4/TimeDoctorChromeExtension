@@ -1,5 +1,5 @@
 # TimeDoctorChromeExtension
-Chrome extension for testing [Time Doctor]
+Chrome extension test code [Time Doctor]
 ----------
 -> Installation Guid
 ---
