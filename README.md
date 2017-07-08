@@ -7,3 +7,6 @@ Chrome extension for testing [Time Doctor]
 -> Code
 1. Code is saved as TimeDoctorCode.zip
 2. Download the zip of pull from repository for review
+
+-> Screen shots of working solution
+1. Please refer Screenshots.doc to view working application implemented at my site.
