@@ -14,3 +14,9 @@ Code file details
 Screen shots of working solution
 ---
 1. Please refer Screenshots.doc to view working application implemented at my site.
+
+User name and Password details for TimeDoctor.com
+---
+I have create a user for testing
+Username : nirmal.joshi@gmail.com
+Password : 123456
