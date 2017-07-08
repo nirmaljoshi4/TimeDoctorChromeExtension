@@ -3,12 +3,11 @@ Chrome extension test code [Time Doctor]
 ----------
 Installation Guid
 ---
-1. Please select TimeDoctor.prx file to install the extension
-2. You can also download the zip file for the same and attach to chrome extension
+1. Please select TimeDoctorCE.crx file to install the extension
 
 Code file details
 ---
-1. Code is saved as TimeDoctorCode.zip
+1. Code is saved as TimeDoctorCE.zip
 2. Download the zip of pull from repository for review
 
 User name and Password details for TimeDoctor.com
